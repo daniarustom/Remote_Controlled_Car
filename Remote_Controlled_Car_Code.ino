@@ -1,9 +1,3 @@
-/*
-  Example sketch for the PS3 Bluetooth library - developed by Kristian Lauszus
-  For more information visit my blog: http://blog.tkjelectronics.dk/ or
-  send me an e-mail:  kristianl@tkjelectronics.com
-*/
-
 #include <usbhub.h> //This is the library for the bluetooth dongle
 #include <PS3BT.h> //This is the library for the PS3 controller
 
